@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA-Thoughts/DSA-Thoughts.iml" filepath="$PROJECT_DIR$/DSA-Thoughts/DSA-Thoughts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-upload.iml" filepath="$PROJECT_DIR$/git-upload.iml" />
+    </modules>
+  </component>
+</project>
