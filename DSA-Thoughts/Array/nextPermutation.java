@@ -2,7 +2,7 @@
 
 public class nextPermutation {
     static void nextPermutation(int[] nums) {
-        // Your code goes here
+
         int A=-1;
         for(int i=nums.length-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
