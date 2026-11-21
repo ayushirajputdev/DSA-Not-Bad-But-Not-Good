@@ -1,6 +1,7 @@
+package Array;
+
 import java.util.*;
 import java.lang.*;
-import java.io.*;
 import java.math.BigInteger;
 
 public class FCTRL2
