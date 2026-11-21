@@ -1,4 +1,3 @@
-package Array;
 import java.util.*;
 public class intersectionOfTwoSortedArray {
     static int[] intersectionArray(int[] nums1, int[] nums2) {

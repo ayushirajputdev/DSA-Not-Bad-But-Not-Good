@@ -1,4 +1,3 @@
-package Array;
 public class leftRotateArrayByKPlaces {
     static void rotateArray(int[] nums, int k) {
         if(k>nums.length){

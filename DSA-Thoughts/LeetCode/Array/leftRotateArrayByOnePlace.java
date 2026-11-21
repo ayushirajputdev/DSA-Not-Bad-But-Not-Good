@@ -1,4 +1,3 @@
-package Array;
 public class leftRotateArrayByOnePlace {
     static void rotateArrayByOne(int[] nums) {
         int temp=nums[0];
